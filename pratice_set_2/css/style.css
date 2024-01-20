@@ -1,0 +1,17 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.first-task {
+  color: aqua;
+  background-color: rgba(30, 150, 180, 0.4);
+  /* background-image: url(../img/amazon.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat; */
+  height: 350px;
+  background: no-repeat center url(../img/amazon.jpg);
+  border: 5px solid bisque;
+}

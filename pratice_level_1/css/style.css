@@ -1,0 +1,28 @@
+h1 {
+  color: red;
+}
+
+#heading {
+  color: orange;
+}
+
+/* Priority order:- inlinecss > internal css > external css */
+
+/* Using Selectors */
+
+div {
+  color: aquamarine;
+  background: antiquewhite;
+}
+.class-working {
+  color: orange;
+}
+#id-working {
+  color: cadetblue;
+}
+
+/* Using group selectors */
+#first,
+#second {
+  color: chartreuse;
+}
